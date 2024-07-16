@@ -235,6 +235,9 @@ display: flex;
 justify-content: center;
 gap: 24px;
 }
+.div-svg-team{
+
+}
 .our-team {
   fill: #FFFFFF;
 }
