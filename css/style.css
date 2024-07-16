@@ -402,13 +402,10 @@ address {
   max-width: 264px;
 }
 .footer-container{
-  align-items: baseline;
-  margin-right: 120px;
   display: flex;
 }
 .footer-links{
-  list-style: none;
-
+  align-items: baseline;
 }
 .footer-text-title{
   margin-bottom: 16px;
