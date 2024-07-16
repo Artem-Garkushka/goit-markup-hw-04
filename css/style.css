@@ -416,6 +416,9 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color:#FFFFFF;
 }
-.conteiner{
+.footer-menu{
+  gap: 16px;
+}
+.footer-conteiner{
   margin-right: 120px;
 }
