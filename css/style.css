@@ -175,9 +175,6 @@ address {
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
 }
-.main-menu-tech-button {
-  fill: none;
-}
 .main-technologies {
   padding: 120px 0;
 }
@@ -227,6 +224,8 @@ address {
   background-color: #4d5ae5;
   fill: transparent;
   fill: none;
+  width: 40px;
+  height: 40px;
 }
 .main-our-team {
   background-color: #f4f4fd;
