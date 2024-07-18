@@ -408,6 +408,7 @@ address {
   padding: 0 15px;
   margin: 0;
   margin-right: 120px;
+  align-items: baseline;
 }
 .footer-text-title{
   margin-bottom: 16px;
@@ -448,5 +449,4 @@ address {
 .contein{
   width: 1158px;
   margin-right: 120px;
-  align-items: baseline;
 }
