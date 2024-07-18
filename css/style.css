@@ -401,16 +401,12 @@ address {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
-.footer-container{
-  display: flex;
-  margin-right: 120px;
-  align-items: baseline;
-}
 .conteiner {
   display: flex;
   width: 1158px;
   padding: 0 15px;
-  margin: 0 auto;
+  margin: 0;
+  margin-right: 120px;
 }
 .footer-text-title{
   margin-bottom: 16px;
@@ -442,7 +438,4 @@ padding: 0;
 .footer-our-team{
   display: flex;
   align-items: baseline;
-}
-.footr{
-  margin-right: 120px;
 }
