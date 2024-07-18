@@ -98,7 +98,6 @@ p {
 .header-menu-list-item:hover,
 .header-menu-list-item:focus {
   color: #404bbf;
-  fill:#404bbf;
 }
 nav {
   display: flex;
@@ -443,8 +442,6 @@ address {
 .footer-links{
   margin-right: 120px;
   align-items: baseline;
-  width: 208px;
-  height: 80px;
 }
 .contein{
   width: 1158px;
