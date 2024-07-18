@@ -439,6 +439,8 @@ address {
   display: flex;
 }
 .footer-links{
+  margin-right: 120px;
+  align-items: baseline;
   width: 208px;
   height: 80px;
 }
