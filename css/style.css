@@ -403,9 +403,14 @@ address {
 }
 .footer-container{
   display: flex;
-}
-.footer-links{
+  margin-right: 120px;
   align-items: baseline;
+}
+.conteiner {
+  display: flex;
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 .footer-text-title{
   margin-bottom: 16px;
@@ -415,6 +420,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color:#FFFFFF;
+padding: 0;
 }
 .footer-menu{
   gap: 16px;
@@ -432,4 +438,11 @@ color:#FFFFFF;
 .svg-post:hover,
 .svg-post:focus{
   background-color: #31d0aa;
+}
+.footer-our-team{
+  display: flex;
+  align-items: baseline;
+}
+.footr{
+  margin-right: 120px;
 }
