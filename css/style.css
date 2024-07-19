@@ -443,3 +443,9 @@ address {
   margin-right: 120px;
   align-items: baseline;
 }
+.container {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin-right: 120px;
+  margin: 0 auto;
+}
