@@ -281,8 +281,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  padding: 0;
-  margin: 0;
+  margin-bottom: 8px;
 }
 .menu-task {
   padding: 32px 0;
@@ -405,9 +404,12 @@ address {
   display: flex;
   width: 1158px;
   padding: 0 15px;
-  margin: 0;
-  margin-right: 120px;
+  margin: 0 auto;
+}
+.cont{
   align-items: baseline;
+  max-width: 1158px;
+  margin-right: 120px;
 }
 .footer-text-title{
   margin-bottom: 16px;
@@ -442,10 +444,4 @@ address {
 .footer-links{
   margin-right: 120px;
   align-items: baseline;
-}
-.container {
-  max-width: 1158px;
-  padding: 0 15px;
-  margin-right: 120px;
-  margin: 0 auto;
 }
